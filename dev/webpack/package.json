@@ -1,5 +1,5 @@
 {
-  "name": "webpack",
+  "name": "webpack-project",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,8 @@
   },
   "author": "Toshiyuki Kurashima",
   "license": "UNLICENSED",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "webpack": "^4.41.6"
+  }
 }
